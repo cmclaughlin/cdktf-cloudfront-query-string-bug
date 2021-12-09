@@ -1,0 +1,7 @@
+{
+  "language": "python",
+  "app": "python3 main.py",
+  "terraformProviders": [],
+  "codeMakerOutput": "imports",
+  "projectId": "3cddbd48-7f1e-444d-81c8-51bdd5cf0ac1"
+}
